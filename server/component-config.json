@@ -1,0 +1,15 @@
+{
+  "loopback-component-explorer": {
+    "mountPath": "/explorer",
+    "generateOperationScopedModels": true
+  },
+  "loopback-component-jwt": {
+    "userModel": "registerUser",
+    "accessTokenModel": "AccessToken",
+    "fields": [
+      "firstname",
+      "lastname"
+    ],
+    "secretKey": "mysecretkey"
+  }
+}
