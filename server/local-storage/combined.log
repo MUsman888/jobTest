@@ -1,3 +1,5 @@
 {"message":"{\"statusCode\":401,\"code\":\"AUTHORIZATION_REQUIRED\"}","level":"error"}
 {"message":"{\"statusCode\":401,\"code\":\"AUTHORIZATION_REQUIRED\"}","level":"error"}
 {"message":"{\"statusCode\":401,\"code\":\"AUTHORIZATION_REQUIRED\"}","level":"error"}
+{"message":"{\"status\":404}","level":"error"}
+{"message":"{\"statusCode\":401,\"code\":\"AUTHORIZATION_REQUIRED\"}","level":"error"}

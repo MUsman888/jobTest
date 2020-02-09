@@ -8,7 +8,7 @@ module.exports = function (Registeruser) {
         await Registeruser.create(credentials);
         let user = await Registeruser.login(credentials);
         if (user) {
-          return { jwt_token: user.accessToken };
+          return { access_token: user.accessToken };
         }
       } else {
         if (credentials.password.length >= 6) {

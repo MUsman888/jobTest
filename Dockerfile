@@ -9,6 +9,7 @@ RUN npm install
 # Bundle app source
 COPY . /app/docker-image
 
+CMD node .
+
 EXPOSE 8080
 
-CMD [ "node", "server.js" ]
