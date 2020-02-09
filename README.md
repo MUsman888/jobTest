@@ -38,3 +38,16 @@ hit localhost://8000 for logging pannel
 2. linting configuration 
 hit "npm run lint" command for show error and sugessions for linting
 
+3. used es6 code 
+
+remaining tasks
+ i have not done these task and i have not experience in it but i have locally worked on docker
+ image and container
+
+1. docker hub
+2. test cases
+
+
+name:muhammad usman
+email:usman_ahmad888@yahoo.com
+
